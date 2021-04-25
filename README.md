@@ -1,2 +1,2 @@
 # Wumpus-Website
-This is a website I am making for a person.
+©️ Wumpus Land, All Rights Reserved | Made by Zofux.
