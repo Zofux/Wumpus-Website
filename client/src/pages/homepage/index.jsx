@@ -4,8 +4,6 @@ import "./footer.css";
 import banner from '../png/0be63c1a-e2fd-46a7-915f-e2517fbb11a0_WumpusBackground.png';
 import logo from '../png/b17d025faa92614dc539185498f10277.png'
 import { Link } from 'react-router-dom'
-import Typical from 'react-typical'
-import Typing from 'react-typing-animation';
 
 /*
  <Typical
